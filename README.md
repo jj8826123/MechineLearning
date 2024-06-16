@@ -1,1 +1,3 @@
 # MechineLearning
+本專案係使用google colab產出之kmeans
+使用前請先下載Bayes_data_seed及Bayes_data_radical兩個csv檔案，並且匯入google colab之中，方能使用
